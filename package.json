@@ -1,0 +1,23 @@
+{
+  "name": "projeto-git2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amorim-creator/meu-trabalho-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amorim-creator/meu-trabalho-02/issues"
+  },
+  "homepage": "https://github.com/Amorim-creator/meu-trabalho-02#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
